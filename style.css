@@ -356,13 +356,16 @@ i {
         border-bottom-right-radius: 25%;
         padding: 0 1rem 0;
     }
-    .logo img {
+    .logo h2 {
         position: fixed;
         left: 1.6rem;
         top: 0.5rem;
-        width: 78px;
-        height: 38px;
+        width: 150px;
+        height: 138px;
+        max-width: 10px;
     }
+
+    
 
     #section0 > h2,
     #section1 > h2,
